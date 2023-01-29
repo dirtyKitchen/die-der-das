@@ -1,0 +1,17 @@
+[
+    {
+        "image": "https://picsum.photos/200",
+        "title": "Title 1",
+        "description": "Description 1"
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "title": "Title 2",
+        "description": "Description 2"
+    },
+    {
+        "image": "https://picsum.photos/200",
+        "title": "Title 3",
+        "description": "Description 3"
+    }
+]

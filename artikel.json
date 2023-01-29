@@ -1,0 +1,32 @@
+[
+    {
+        "path": "image Comes here",
+        "name" : "Zug (DE) / Train (EN)",
+        "artikle" : "Der",
+        "desc": "Der Zug is zu schnell"
+    },
+    {
+        "path": "image Comes here",
+        "name" : "Katze (DE) / Cat (EN)",
+        "artikle" : "Die",
+        "desc": "Die Katze ist klug"
+    },
+    {
+        "path": "image Comes here",
+        "name" : "Ei (DE) / Egg (EN)",
+        "artikle" : "Das",
+        "desc": "Des Ei ist gesund"
+    },
+    {
+        "path": "image Comes here",
+        "name" : "Maus (DE) / Mouse (EN)",
+        "artikle" : "Die",
+        "desc": "Die Maus ist sehr schnell"
+    },
+    {
+        "path": "image Comes here",
+        "name" : "Buch (DE) / Book (EN)",
+        "artikle" : "Das",
+        "desc": "Das Buch ist nicht interrsant"
+    }
+]
